@@ -5,6 +5,6 @@ La representación del mosaico hexagonal se basa en una rejilla de 31 filas por 
 ### Configuración 2021
 <img width="1111" alt="reticula-cartograma" src="https://github.com/DaveMex/Cartogram_Mexico/assets/7179941/e28064e7-f145-41a7-ab00-5c3af3ccfc63">
 
-### Configuración 2021
+### Configuración 2024
 Cada censo poblacional que se realiza cada 10 años nos indica cambios en la distribución de la población a nivel nacional. Por ello se realizan nuevas distritaciones que buscsn equilibrar su representación en los trescientos distritos electorales federales. En la última configuración aprobada en el Instituto Nacional Electoral que se utiliza en las elecciones de 2024 ha habido cambios en los que algunos estados pierden o ganan distritos. Esta se refleja en el nuevo diseño del cartograma hexagonal que se presenta a continuación. Con la ayuda de Irving Morales Agiss se realizan y ahora se añaden los archivos geojson que son útiles para usarse en D3js.
 <img width="1111" alt="cartograma-2024" src="https://github.com/DaveMex/Cartogram_Mexico/assets/7179941/f93aa0db-250a-477d-826b-ee8d512fe085">
