@@ -1,0 +1,173 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+#mapa {
+    /* border-style: solid; */
+    /* padding: 1rem;
+    border-width: 1px;
+    border-radius: 0.6rem; */
+    background-color: #fff;
+    
+}
+
+.textito{
+    max-width: 600px;
+    margin: auto;
+}
+.row {
+    --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * .5);
+  padding-left: calc(var(--bs-gutter-x) * .5);
+}
+
+@media screen and (max-width: 700px) {
+    .col-md-12,
+    .container,
+    .row {
+        padding: 0;
+        margin: 0;
+        max-width: none;
+    }
+
+    #mapa {
+        width: 100%;
+        overflow: auto;
+    }
+    #mapa svg {
+        width: 900px;
+        max-width: none !important;
+    }
+    
+}
+
+#tits {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+/* Estilos del mapa heredados de gobernantes.info */
+
+/* MAPA HEXAGONOS */
+.mapa-hexagonos { 
+    padding: 1em;
+    overflow: hidden;
+}
+.mapa-hexagonos .column {
+    float: left;
+}
+
+.mapa-hexagonos #mapa {
+    width: 75%;
+    height: 600px
+}
+.mapa-hexagonos #barra .primaryButtonLarge {
+    margin-bottom: 0.5em;
+    width: 80%;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.estados  {
+    fill: none;
+    stroke: #555;
+    stroke-width: 3px;
+}
+
+.estados:hover {
+    /* stroke: #50AF;
+    stroke-width: 3px; */
+}
+
+.distrito {
+    fill: #ddd;
+    stroke: #ddd;
+    stroke-width: 3px;
+    font-family: "Saira Condensed";
+
+}
+.distrito:hover {
+    fill: #fff;
+    /* stroke-width: 0px; */
+}
+
+.distrito_clickeado {
+    fill: #70E;
+}
+
+.mapa-hexagonos #barra {
+    width: 25%;
+    /* height: 600px; */
+    font-size: 14px;
+    padding: 15px 5px 0 10px; 
+    margin-top: 10px;
+
+    box-sizing: border-box;
+    justify-content: center;
+    text-align: center;
+
+    background: #c6cfd6;
+    gap: 40px;
+
+    background: #FFFFFF;
+    box-shadow: 5px 20px 20px rgba(68, 0, 128, 0.06), -3px 10px 10px rgba(68, 0, 128, 0.07);
+    border-radius: 24px 24px 24px 0;  
+
+}
+
+.mapa-hexagonos #barra h2 {
+    background: #DCE;
+    margin: -10px -5px -10px -10px;
+    font-size: 19px;
+    border-radius: 10px 10px 0 0;
+    padding: 10px;
+}
+
+#mapa a {
+    /* width: 100%; */
+    display: inline-block;
+    position: relative;
+    top: -20px;
+    font-size: 10px;
+}
+
+@media screen and (max-width: 980px) {
+    .mapa-hexagonos {
+        padding: 0.5em;
+    }
+    .mapa-hexagonos #mapa {
+        height: 400px;
+    }
+    .mapa-hexagonos #barra {
+        font-size: 12px;
+    }
+            
+}
+@media screen and (max-width: 770px) {
+    .mapa-hexagonos {
+        padding: 0.2em;
+    }
+    .mapa-hexagonos #barra {
+        font-size: 10px;
+    }
+    .mapa-hexagonos #barra h2 {
+        font-size: 12px;
+    }
+    
+    .mapa-hexagonos #barra .primaryButtonLarge {
+      padding: 6px;
+      border-radius: 5px;;
+    
+    } 
+    
+    .distrito, .estados {
+
+        stroke-width: 1px;
+    
+    }
+
+}
