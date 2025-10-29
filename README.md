@@ -167,7 +167,9 @@ Se solicita amablemente **dar crédito al origen del proyecto** al utilizarlo.
 
 ## Acknowledgements
 
-- **Autor Principal:** [Tu Nombre/Usuario de GitHub]
+- **Autor Principal:** David Hernández Méndez / DaveMex
 - **Colaboración:** Irving Morales Agiss, Martín Szyszlican y Andrés Snitcofsky 
 - **Institución:** Doctorado en Diseño y Visualización de la Información, CYAD UAM Azcapotzalco.
 - **Apoyo:** CONACYT (ahora SECIHTI).
+
+<img width="1111" alt="cartograma-2024" src="https://github.com/DaveMex/Cartogram_Mexico/logos/logoUAM.png">
