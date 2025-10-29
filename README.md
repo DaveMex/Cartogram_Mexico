@@ -2,7 +2,7 @@
 
 Este repositorio contiene los archivos necesarios para crear cartogramas electorales de México basados en una retícula hexagonal. Este enfoque de mapa temático permite visualizar los 300 distritos electorales federales con un área uniforme, facilitando la comprensión de patrones y hallazgos en los datos electorales.
 
-Este proyecto es el resultado de una investigación de posgrado en el **Doctorado en Diseño y Visualización de la Información** (CYAD, UAM Azcapotzalco), con apoyo del programa del CONACYT (ahora SECIHTI).
+Este proyecto es el resultado de una investigación de posgrado en el **Doctorado en Diseño y Visualización de la Información** (CYAD, UAM Azcapotzalco), con apoyo del Programa Nacional de Posgrados de Calidad del CONACYT (ahora SECIHTI).
 
 ---
 
