@@ -172,7 +172,7 @@ Se solicita amablemente **dar crédito al origen del proyecto** al utilizarlo.
 - **Institución:** Doctorado en Diseño y Visualización de la Información, CYAD UAM Azcapotzalco.
 - **Apoyo:** CONACYT (ahora SECIHTI).
 
-<img width="1111" alt="cartograma-2024" src="https://github.com/DaveMex/Cartogram_Mexico/logos/logoUAM.png">
-<img width="1111" alt="cartograma-2024" src="https://github.com/DaveMex/Cartogram_Mexico/logos/Logotipo-CyAD-300x155-1.png">
-<img width="1111" alt="cartograma-2024" src="https://github.com/DaveMex/Cartogram_Mexico/logos/logotipo_SCyT_color_803x97px_v02.svg">
+<img width="1111" alt="Logo UAM" src="https://github.com/DaveMex/Cartogram_Mexico/blob/master/logos/logoUAM.png">
+<img width="1111" alt="Logo CyAD" src="https://github.com/DaveMex/Cartogram_Mexico/blob/master/logos/Logotipo-CyAD-300x155-1.png">
+<img width="1111" alt="Logo" src="https://github.com/DaveMex/Cartogram_Mexico/blob/master/logos/logotipo_SCyT_color_803x97px_v02.svg">
 
