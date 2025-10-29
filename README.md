@@ -12,9 +12,9 @@ Este proyecto es el resultado de una investigación de posgrado en el **Doctorad
 
 Este repositorio incluye un ejemplo completo que mapea los resultados de las elecciones de 2024.
 
-➡️ **[Ver el demo aquí](https://davemex.github.io/Cartogram_Mexico/gobernantes-resultados-mexico-2024-main/index.html)** (o abre el archivo `gobernantes-resultados-mexico-2024-main/index.html` localmente).
+➡️ **[Ver el sitio vivo aquí](https://abrimos.info/gobernantes-resultados-mexico-2024/)** (o abre el archivo `gobernantes-resultados-mexico-2024-main/index.html` localmente).
 
-<img width="1111" alt="cartograma-2024" src="https://github.com/DaveMex/Cartogram_Mexico/assets/7179941/f93aa0db-250a-477d-826b-ee8d512fe085">
+<img width="1795" height="1827" alt="Firefox_Screenshot_2025-elecciones" src="https://github.com/user-attachments/assets/03913396-2091-4839-abe4-7dea9f8397ee" />
 
 ## Tabla de Contenidos
 
@@ -173,3 +173,6 @@ Se solicita amablemente **dar crédito al origen del proyecto** al utilizarlo.
 - **Apoyo:** CONACYT (ahora SECIHTI).
 
 <img width="1111" alt="cartograma-2024" src="https://github.com/DaveMex/Cartogram_Mexico/logos/logoUAM.png">
+<img width="1111" alt="cartograma-2024" src="https://github.com/DaveMex/Cartogram_Mexico/logos/Logotipo-CyAD-300x155-1.png">
+<img width="1111" alt="cartograma-2024" src="https://github.com/DaveMex/Cartogram_Mexico/logos/logotipo_SCyT_color_803x97px_v02.svg">
+
