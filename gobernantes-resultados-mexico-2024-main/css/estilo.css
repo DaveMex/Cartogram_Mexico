@@ -12,8 +12,8 @@ body {
 }
 
 .textito{
-    max-width: 600px;
-    margin: auto;
+    max-width: 800px;
+    margin: 20px;
 }
 .row {
     --bs-gutter-x: 1.5rem;
@@ -171,6 +171,7 @@ body {
     }
 
 }
+
 
 /* Estilos de leyenda */
 .map-legend {
