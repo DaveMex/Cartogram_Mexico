@@ -14,7 +14,7 @@ Este repositorio incluye un ejemplo completo que mapea los resultados de las ele
 
 ➡️ **[Ver el sitio vivo aquí](https://abrimos.info/gobernantes-resultados-mexico-2024/)** (o abre el archivo `gobernantes-resultados-mexico-2024-main/index.html` localmente).
 
-<img width="1795" height="1827" alt="Firefox_Screenshot_2025-elecciones" src="https://github.com/user-attachments/assets/03913396-2091-4839-abe4-7dea9f8397ee" />
+<img width="1111" alt="Firefox_Screenshot_2025-elecciones" src="https://github.com/user-attachments/assets/03913396-2091-4839-abe4-7dea9f8397ee" />
 
 ## Tabla de Contenidos
 
